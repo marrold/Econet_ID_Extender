@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "Econet_ID__Extender_External")(type "KiCad")(uri "${KIPRJMOD}/Econet_ID__Extender_External.pretty")(options "")(descr ""))
+)
