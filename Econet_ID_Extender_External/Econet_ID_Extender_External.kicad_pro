@@ -333,7 +333,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "Econet_ID__Extender_External.kicad_pro",
+    "filename": "Econet_ID_Extender_External.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -365,7 +365,7 @@
     "last_paths": {
       "gencad": "",
       "idf": "",
-      "netlist": "Econet_ID__Extender_External.net",
+      "netlist": "Econet_ID_Extender_External.net",
       "specctra_dsn": "",
       "step": "",
       "vrml": ""
