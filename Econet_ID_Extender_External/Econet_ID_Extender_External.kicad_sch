@@ -559,7 +559,7 @@
     (uuid f2aef7bf-46ef-46b8-9369-506f3761f267)
   )
 
-  (label "E_AUD3" (at 153.67 100.33 0)
+  (label "E_AUD3" (at 153.67 90.17 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 13b97bef-ed94-4d10-b6a8-cbd003a1c70d)
   )
@@ -627,7 +627,7 @@
     (effects (font (size 1.27 1.27)) (justify right bottom))
     (uuid 8e1775c6-acc5-47ae-ab78-1b903f90e0ee)
   )
-  (label "E_AUD1" (at 153.67 90.17 0)
+  (label "E_AUD1" (at 153.67 100.33 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 9739703d-b68a-437e-9a93-d6f743b5d9ab)
   )
